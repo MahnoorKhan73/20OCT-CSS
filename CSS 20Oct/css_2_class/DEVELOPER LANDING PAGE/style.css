@@ -1,0 +1,23 @@
+html,
+body{
+    line-height: 1.4em;
+    font-family: sans-serif;
+
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.hero_section{
+    background-image: url(../ASSIGNMENT_8/IMAGES/developer.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.text_container{
+    color: white;
+    padding:20px ;
+}
